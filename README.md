@@ -14,5 +14,10 @@ Have fun!
 by syuan
 ## how 2 use
 1. `gcc -O3 -march=x86-64-v2 -o stegburp stegburp.c -pthr`
-2. `./stegburp test.txt /usr/share/wordlists/rockyou.txt keyword:flag{`
+2. `./stegburp <secret file> <wordlist> keyword:flag{`
+
+like
+
+`./stegburp test.txt /usr/share/wordlists/rockyou.txt keyword:flag{`
+
 
