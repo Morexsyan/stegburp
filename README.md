@@ -1,6 +1,6 @@
 # stegburp
 
-<video src="test.mp4" controls width="100%"></video>
+<video src="https://github.com/Morexsyan/stegburp/raw/main/test.mp4" controls width="600"></video>
 
 wink wink, it's me.
 Thanks for using this tool!
