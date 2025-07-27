@@ -1,4 +1,7 @@
 # stegburp
+
+<video src="test.mp4" controls width="100%"></video>
+
 wink wink, it's me.
 Thanks for using this tool!
 
