@@ -1,6 +1,7 @@
 # stegburp
 
-<video src="https://github.com/Morexsyan/stegburp/raw/main/test.mp4" controls width="600"></video>
+[![預覽](https://github.com/Morexsyan/stegburp/raw/main/preview.png)](https://github.com/Morexsyan/stegburp/raw/main/test.mp4)
+
 
 wink wink, it's me.
 Thanks for using this tool!
