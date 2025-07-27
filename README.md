@@ -14,3 +14,5 @@ Have fun!
 by syuan
 ## how 2 use
 `gcc -O3 -march=x86-64-v2 -o stegburp stegburp.c -pthr`
+`./stegburp test.txt /usr/share/wordlists/rockyou.txt keyword:flag{
+
